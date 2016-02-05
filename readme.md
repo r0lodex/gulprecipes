@@ -1,5 +1,5 @@
 # Gulp Recipe
-This recipe is my opinion on managing frontend development using Gulp with teams. I was used to using CodeKit which is not free and available only on OS X, this recipe is good for frontend teams.
+This recipe is my opinion on managing frontend development using Gulp with teams. I was used to using CodeKit which is not free and available only on OS X, this recipe is good for frontend teams using other platforms.
 
 ### Requirements
 - Gulp `npm install -g gulp-cli`
