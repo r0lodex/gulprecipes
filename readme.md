@@ -18,11 +18,6 @@ What this does
 - `gulp watch`
 - Adapt your project structure in `gulpfile.js`. Change the directory as you see fit.
 
-### FAQ
-- NPM installations see here.
-- GEM installations see here.
-- 
-
 #### Todo
 Basically I'll make this repo as my boilerplate. Probably will contain more advance modules in the future, e.g;
 - Angular
