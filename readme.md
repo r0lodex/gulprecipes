@@ -15,13 +15,14 @@ What this does
 
 ### Usage
 - `npm install --save-dev`
-- `gulp watch`
 - Adapt your project structure in `gulpfile.js`. Change the directory as you see fit.
+- Just run `gulp` to start the task runner, and `gulp watch` to run everytime you save.
+- For the time being, only existing files will be watched. For newly created files, you gotta restart `gulp watch`.
 
 #### Todo
-Basically I'll make this repo as my boilerplate. Probably will contain more advance modules in the future, e.g;
-- Angular
-    + ui-router
-    + angular-resource
-- Bootstrap 4
-- etc.
+- Watch newly created files.
+- Opinionated project structure, e.g Boilerplate this with:
+    + Angular (John Papa)
+    + Bootstrap 4 Alpha
+    + Iconsets
+    + Fonts
