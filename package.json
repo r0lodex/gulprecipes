@@ -1,14 +1,11 @@
 {
-  "name": "gulptest",
+  "name": "Rolodex Gulp Recipe",
   "version": "0.0.1",
-  "description": "A gulp learning. Probably includes require too",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"hello\""
-  },
+  "description": "A gulp boilerplate",
+  "main": "index.html",
   "keywords": [
     "gulp",
-    "learning"
+    "rolodex"
   ],
   "author": "irfan",
   "license": "ISC",
