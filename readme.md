@@ -7,11 +7,12 @@ What this does
 - Compress images
 
 ### Requirements
+Of course, you gotta have NPM and Ruby for these to work.
 - Gulp `npm install -g gulp-cli`
 - Browserify `npm install -g browserify`
 - Watchify `npm install -g watchify`
 - SASS `gem install sass`
-- LiveReload
+- [LiveReload](http://livereload.com)
 
 ### Usage
 - `npm install --save-dev`
